@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sqlalchemy
+sentence-transformers
+torch
